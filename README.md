@@ -16,7 +16,7 @@
 
 **如何运行StarMessage**
 
-在开始菜单或桌面找到StarMessage，点击StarMessage
+>在开始菜单或桌面找到StarMessage，点击StarMessage
 
 ***
 
